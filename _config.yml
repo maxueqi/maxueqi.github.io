@@ -1,0 +1,19 @@
+# Site settings
+title: Xueqi Ma blog
+email: xueqima@s.upc.edu.cn
+description: "Musings of a Computer Scientist."
+baseurl: ""
+url: "http://maxueqi.github.io"
+blogurl: "http://maxueqi.github.io/blog"
+#twitter_username: karpathy
+github_username:  maxueqi
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
